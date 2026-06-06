@@ -26,7 +26,7 @@ The strongest-performing zones shared two characteristics:
 This pattern provides a replicable design framework for future workspace expansion.
 
 Tools Used
-Python.Pandas.Matplotlib
+Python.Pandas.Matplotlib.AutoCAD.Setchup.Lumion.AdobePhotoshop
 
 The project demonstrates how workplace design decisions can be supported by data, helping organizations improve utilization, reduce costs, and create more effective work environments.
 
